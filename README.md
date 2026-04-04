@@ -153,6 +153,156 @@ To prevent system failure during mass fraud attacks:
 👉 Ensures platform stability under extreme conditions.
 
 🏆 Accomplishments
+1️⃣ 🧠 Problem Statement (Clear & Strong)
+
+You should explicitly define:
+
+Gig workers lose 20–30% income due to disruptions
+No existing income protection system
+Focus on external events (NOT health/vehicle)
+
+👉 This helps judges quickly understand why your project matters
+
+2️⃣ 🎯 Objectives
+
+Add 3–5 clear goals:
+
+Provide income protection
+Enable zero-touch claims
+Use AI for pricing & fraud detection
+Ensure weekly affordability
+3️⃣ 👤 Target Users (Persona)
+
+Mention clearly:
+
+Food delivery partners (Zomato, Swiggy)
+E-commerce delivery (Amazon, Flipkart)
+Grocery/Q-commerce (Zepto, Blinkit)
+
+👉 You already defined this in your doc — just summarize it
+
+4️⃣ ⚙️ System Architecture (VERY IMPORTANT)
+
+Add a diagram or explanation:
+
+Frontend → Next.js
+Backend → Node.js
+AI → Python APIs
+Database → PostgreSQL
+APIs → Weather, AQI
+
+👉 Even a simple flow like:
+
+User → Frontend → Backend → AI Engine → Database → Response
+5️⃣ 🔄 Workflow (Step-by-Step Flow)
+
+Explain:
+
+User registers
+Selects plan
+AI calculates premium
+System monitors triggers
+Claim auto-generated
+Payout processed
+6️⃣ 🌐 APIs Used
+
+Clearly list:
+
+Weather API (OpenWeather / Open-Meteo)
+AQI API (CPCB / mock)
+Payment API (Razorpay mock)
+News/curfew detection (mock)
+7️⃣ 🤖 AI/ML Explanation (Simple Version)
+
+Explain in simple terms:
+
+Dynamic pricing model
+Fraud detection logic
+Risk profiling
+
+👉 Judges don’t want heavy theory — just clarity
+
+8️⃣ 🛡️ Fraud Detection Logic
+
+Add:
+
+GPS validation
+Duplicate claim detection
+Fraud score system
+9️⃣ ⚡ Parametric Triggers (Key Feature)
+
+List clearly:
+
+Heavy Rain
+Extreme Heat
+AQI > 300
+Curfew
+Platform outage
+
+👉 Mention: “Triggers auto-initiate claims”
+
+🔟 💰 Pricing Model (Weekly Focus)
+
+Explain:
+
+₹29 / ₹49 / ₹79 plans
+Weekly model (important constraint)
+AI-based adjustments
+1️⃣1️⃣ 📊 Features Checklist
+
+Add a checklist like:
+
+✅ Registration
+✅ Policy Management
+✅ Dynamic Pricing
+✅ Claims Automation
+✅ Fraud Detection
+✅ Dashboard
+1️⃣2️⃣ 🎥 Demo Link Section
+
+Add placeholder:
+
+## 🎬 Demo Video
+[Add your public video link here]
+1️⃣3️⃣ 🚀 How to Run Project (IMPORTANT)
+
+Add setup steps:
+
+git clone <repo>
+cd project
+npm install
+npm run dev
+
+👉 Judges often check this!
+
+1️⃣4️⃣ 🧪 Demo Credentials (Optional but powerful)
+Mobile: 9999999999
+OTP: 1234
+1️⃣5️⃣ 🔮 Future Scope
+
+Add ideas:
+
+Real API integration
+Blockchain claims
+Multi-country expansion
+Insurance partnerships
+1️⃣6️⃣ 🏆 Why This is Unique
+
+Highlight:
+
+Zero-touch claims
+AI-based pricing
+Weekly micro-insurance
+Multi-persona support
+1️⃣7️⃣ 👨‍💻 Team Section (IMPORTANT)
+
+Add:
+
+## 👨‍💻 Team Orion
+- Chandra Raj Prasad
+- Amit Kumar Mahto
+- Sushree panda
+- Sadiyaa farheen
 
 Built a zero-touch insurance concept
 
